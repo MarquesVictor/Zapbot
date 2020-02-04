@@ -1,6 +1,6 @@
 ﻿1- Instalar o Python e suas bibliotecas usadas no código
 
-2- Baixar o chromeDriver e instalar nas variaveis de ambiente PATH
+2- Baixar o chromeDriver e instalar na variavel de ambiente PATH
 
 3- Preparar um arquivo .CSV(separado por ponto e virgula) com os numeros que as mensgens serão enviadas
 
