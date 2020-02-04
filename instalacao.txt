@@ -1,0 +1,14 @@
+﻿1- Instalar o Python e suas bibliotecas usadas no código
+
+2- Baixar o chromeDriver e instalar nas variaveis de ambiente PATH
+
+3- Preparar um arquivo .CSV(separado por ponto e virgula) com os numeros que as mensgens serão enviadas
+
+4- Preparar uma imagem .JPG (isso pode ser alterado no códico para aceitar outros arquivos)
+
+5- Rodar pelo CMD o arquivo disparador.py
+
+Com o sistema ja rodando, voce pode adcionar o texto a ser enviado, adcionar os numeros que serão enviados
+e adcionar a imagem que será enviada.
+após o click no botão disparar será aberto o chromeDriver e assim que abrir o whatsApp ele ficara na tela de 
+login(leitura do QRcode), assim que lido ele começara o disparo das mensagens.
