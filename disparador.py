@@ -91,6 +91,5 @@ class Application:
 if __name__ == '__main__':  
     root = Tk()
     root.title('Ourozap 1.0')
-    #root.iconbitmap('img/lampada.ico')
     Application(root)
     root.mainloop()
